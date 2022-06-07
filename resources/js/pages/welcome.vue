@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="container">
     <div class="top-right links">
       <template v-if="authenticated">
         <router-link :to="{ name: 'home' }">
@@ -22,7 +22,7 @@
       </div>
 
       <div class="links">
-        <a href="https://github.com/cretueusebiu/laravel-vue-spa">github.com/cretueusebiu/laravel-vue-spa</a>
+        <a href="https://google.com">GO FUCK YOURSELF</a>
       </div>
     </div>
   </div>
