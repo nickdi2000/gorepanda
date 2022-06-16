@@ -4,6 +4,9 @@
 - (When installed via git clone or download, run `php artisan key:generate` and `php artisan jwt:secret`)
 - `php artisan migrate`
 
+## backend
+- php artisan serve
+
 ## frontend
 - `npm install`
 
