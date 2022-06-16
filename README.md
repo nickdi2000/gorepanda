@@ -8,3 +8,4 @@
 - `npm install`
 
 - to run live: `npm run dev`
+- to run live: `npm run watch`

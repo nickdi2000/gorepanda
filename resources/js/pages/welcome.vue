@@ -22,7 +22,7 @@
       </div>
 
       <div class="links">
-        <a href="https://google.com">GO FUCK YOURSELF</a>
+        <a href="https://google.com">GO FUCK YOURSELFFFF</a>
       </div>
     </div>
   </div>
